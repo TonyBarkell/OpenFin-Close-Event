@@ -1,0 +1,22 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "url": "http://localhost:53098/index.html",
+        "name": "OpenFin Support",
+        "uuid": "OF-Testing",
+        "frame": false,
+        "autoShow": true,
+        "defaultWidth": 408,
+        "defaultHeight": 165,
+        "saveWindowState": false,
+        "applicationIcon": "http://localhost:53098/favicon.ico",
+        "resizable": false
+    },
+    "runtime": {
+        "version": "9.61.34.25",
+        "arguments": "--security-realm=OF-TestTemplate"
+    },
+    "shortcut": {
+        "icon": "http://localhost:53098/favicon.ico"
+    }
+}
